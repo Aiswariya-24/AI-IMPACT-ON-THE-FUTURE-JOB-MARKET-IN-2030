@@ -1,1 +1,2 @@
 # AI-IMPACT-ON-THE-FUTURE-JOB-MARKET-IN-2030
+This project focuses on analysing the potential impact of Artificial Intelligence on the job market by 2030. It explores how AI and automation may transform industries, affect existing job roles, create new career opportunities, and influence future job demand, salaries, hiring trends, and skill requirements. The project uses Excel and Power BI to analyse the data and present meaningful insights about the future of employment.
